@@ -1,0 +1,5 @@
+datos\PeliculaDatos.class
+util\Conexion.class
+datos\IPelicula.class
+domain\Pelicula.class
+controller\PeliculaController.class
